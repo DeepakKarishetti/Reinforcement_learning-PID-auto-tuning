@@ -1,5 +1,6 @@
-# Reinforcement_learning-PID-auto-tuning
-Auto tuning of PID parameters of a quad-rotor using Q-learning
+## Reinforcement Learning - PID auto-tuning
+
+#Auto tuning of PID parameters of a quad-rotor using Q-learning
 
 **Project abstract:**
  - Auto-tuning of PID paramters using Q-learning is a project that was an attempt in controlling a quadrotor by tuning the 
